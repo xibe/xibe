@@ -2,7 +2,7 @@
 <h3 align="center">I am Xavier Borderie, Senior Technical Writer, <i>Esq.</i></h3>
 
 <p align="center">
-  <a href="https://xavier.borderie.net/">Main homepage</a> & <a href="https://xavier.borderie.net/">personal blog</a> |
+  <a href="https://xavier.borderie.net/">Main homepage</a> & <a href="https://xavier.borderie.net/blog/">personal blog</a> |
   <a href="https://www.linkedin.com/in/xavierborderie/">LinkedIn account</a> |
   <a href="https://boitam.eu/@xibe">Personal Fediverse (Mastodon) account</a>
 </p>
