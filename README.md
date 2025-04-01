@@ -10,7 +10,7 @@
 ---
 
 - 💬 Ask me about Technical Writing, Product Documentation, Knowledge Management, UX Writing, Developer Advocacy, etc.
-- 📫 How to reach me: Reach me on Twitter or LinkedIn (links above).
+- 📫 How to reach me: Reach me on Mastodon or LinkedIn (links above).
 - ⚡ Fun facts: I was pretty active in the WordPress community for a long time, I sung <a href="https://www.youtube.com/watch?v=PqhOFjpLCBY">a silly song</a> at a webdev conference, and am trying to re-learn the piano.
 - 🤷‍♂️ Regular facts: I am French, was born in '77, and live near Lyon with my wife and kid.
 
